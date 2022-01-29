@@ -1,0 +1,14 @@
+Begin Object Class=/Script/Foliage.FoliageType_InstancedStaticMesh Name="grass_01_01"
+   Mesh=StaticMesh'"/Game/PN_GrassLibrary/Meshes/grassMesh/grass_01_01_mesh.grass_01_01_mesh"'
+   UpdateGuid=301679F24DF7D70B29BD0A85311FFA85
+   Density=150.000000
+   ScaleX=(Max=1.300000)
+   ScaleY=(Max=1.300000)
+   ScaleZ=(Max=1.300000)
+   AlignToNormal=False
+   RandomPitchAngle=10.000000
+   bAffectDistanceFieldLighting=True
+   bCastShadowAsTwoSided=True
+   bOverrideLightMapRes=True
+   ScaleCurve=(EditorCurveData=())
+End Object
